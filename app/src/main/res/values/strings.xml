@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FFmpeg Library Demo</string>
+    <string name="ffmpeg_status_idle">Tap initialize to load FFmpeg native binaries.</string>
+    <string name="button_initialize_ffmpeg">Initialize FFmpeg</string>
+</resources>
